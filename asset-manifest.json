@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/footballmemory/static/css/main.dabb3e8f.css",
+    "main.css": "/footballmemory/static/css/main.26884e6a.css",
     "main.js": "/footballmemory/static/js/main.4633a291.js",
     "static/js/787.d5d2e612.chunk.js": "/footballmemory/static/js/787.d5d2e612.chunk.js",
     "static/media/neymar.jpg": "/footballmemory/static/media/neymar.5a48cefa55258ee05f2c.jpg",
@@ -9,12 +9,12 @@
     "static/media/messi.jpg": "/footballmemory/static/media/messi.0a2b56d3f856cd2d0732.jpg",
     "static/media/cover.jpg": "/footballmemory/static/media/cover.8db02dfb547ac5480903.jpg",
     "index.html": "/footballmemory/index.html",
-    "main.dabb3e8f.css.map": "/footballmemory/static/css/main.dabb3e8f.css.map",
+    "main.26884e6a.css.map": "/footballmemory/static/css/main.26884e6a.css.map",
     "main.4633a291.js.map": "/footballmemory/static/js/main.4633a291.js.map",
     "787.d5d2e612.chunk.js.map": "/footballmemory/static/js/787.d5d2e612.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dabb3e8f.css",
+    "static/css/main.26884e6a.css",
     "static/js/main.4633a291.js"
   ]
 }
