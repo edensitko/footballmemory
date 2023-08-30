@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/footballmemory/static/css/main.654d4fba.css",
+    "main.js": "/footballmemory/static/js/main.71fe10b0.js",
+    "static/js/787.d5d2e612.chunk.js": "/footballmemory/static/js/787.d5d2e612.chunk.js",
+    "index.html": "/footballmemory/index.html",
+    "main.654d4fba.css.map": "/footballmemory/static/css/main.654d4fba.css.map",
+    "main.71fe10b0.js.map": "/footballmemory/static/js/main.71fe10b0.js.map",
+    "787.d5d2e612.chunk.js.map": "/footballmemory/static/js/787.d5d2e612.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.654d4fba.css",
+    "static/js/main.71fe10b0.js"
+  ]
+}
